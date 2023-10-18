@@ -1,0 +1,37 @@
+h1 {
+    color: purple;
+    text-align: center;
+
+}
+
+/* /*body {
+    background-color: tomato;
+    text-align: justify center;
+    /* background-image: url(./assets/toyken.png); 
+ */
+.centerThis {
+    text-align: center;
+}
+.parent{
+    max-width: 30%;
+    max-height: 30%
+}
+.background{
+    background-image: url(./assets/imiges.png);
+    background-image: url(./assets/imagestwo.png);
+
+}
+body{
+    
+     background-color: cornflowerblue;
+     vertical-align: middle;
+    
+}
+.headerDiv{
+    display: flex;
+
+}
+.flexMe{
+    display: flex;
+    justify-content: space-evenly;
+}
